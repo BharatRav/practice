@@ -12,10 +12,7 @@ public class Sample{
              number=scan.nextInt();
             arr[count]=number;
             count++;
-        }
-
-        for(int j=0;j<count;j++){
-            System.out.print(arr[j] + " ");
+        
         }
     }
  }
